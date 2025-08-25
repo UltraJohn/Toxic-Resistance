@@ -4,7 +4,7 @@
   "title": "Toxic Resistance",
   "author": "UltraJohn",
   "homepage": "https://github.com/UltraJohn/Toxic-Resistance",
-  "description": "Adds Toxic resistances to armors, for use with Toxic biters.",
+  "description": "Adds Toxic resistances to armors, vehicles and walls. For use with Toxic biters.",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.0",
